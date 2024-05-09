@@ -1,4 +1,6 @@
 import java.util.Scanner;
+import mypack.MyPackageClass;
+import forcePackage.TestCreatePackageByForce;
 
 public class Example10 {
 //    Packages
@@ -10,6 +12,7 @@ public class Example10 {
         final Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter your name: ");
+
 
          String name = scanner.nextLine();
          
