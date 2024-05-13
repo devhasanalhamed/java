@@ -7,7 +7,11 @@ public class Example21 {
 
     public static void main(String[] args) {
         Integer x = 4;
+        int y = 6;
 
-        System.out.println(x);
+        String convertWrapperToString = x.toString();
+
+        System.out.println(x + y);
+        System.out.println(convertWrapperToString);
     }
 }
