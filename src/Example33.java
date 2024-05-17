@@ -1,3 +1,7 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 public class Example33 {
 
 
@@ -22,9 +26,23 @@ public class Example33 {
         return repeat;
     }
 
+    public static String canForm(String source, String target) {
+        final String[] arrSource = source.toLowerCase().split("");
+        final String[] arrTarget = target.toLowerCase().split("");
+        final List<String> listSource = Arrays.asList(arrSource);
+
+        for (String letter : arrTarget) {
+            if (listSource.contains(letter)) {
+                continue;
+            }
+            return "no";
+        }
+        return "yes";
+    }
+
 
     public static void main(String[] args) {
-        final int result = repetitions("AAAAAAAAAA");
+        final String result = canForm("Hubcoders", "coderhub");
         System.out.println(result);
 
 
