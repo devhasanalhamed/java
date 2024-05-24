@@ -1,5 +1,5 @@
-import java.util.Arrays;
 import java.util.Scanner;
+// Hackerrank day 4
 
 public class Example34 {
 
