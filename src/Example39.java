@@ -12,9 +12,16 @@ public class Example39 {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
         int n = Integer.parseInt(bufferedReader.readLine());
+
+        Stream<String> names = Stream.of("Alice", "Bob", "Charlie");
         Map<String, String> myMap = new HashMap<>();
+
+        Map<String, Integer> nameLengths = names.collect(Collectors.toMap(name -> name, String::length));
+
+        System.out.println(nameLengths);
         for (int i = 0; i < n; i++) {
-            var x = Stream.of().collect(Collectors.toMap(o -> "", ""));
+            var x = Stream.of(bufferedReader.readLine().split("")).collect(Collectors.toMap(name -> name, String::length));
+            System.out.println(x);
         }
     }
 }
