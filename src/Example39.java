@@ -13,15 +13,21 @@ public class Example39 {
 
         int n = Integer.parseInt(bufferedReader.readLine());
 
-        Stream<String> names = Stream.of("Alice", "Bob", "Charlie");
-        Map<String, String> myMap = new HashMap<>();
 
-        Map<String, Integer> nameLengths = names.collect(Collectors.toMap(name -> name, String::length));
+        Map<String, String> addressBook = new HashMap<>();
 
-        System.out.println(nameLengths);
+
         for (int i = 0; i < n; i++) {
-            var x = Stream.of(bufferedReader.readLine().split("")).collect(Collectors.toMap(name -> name, String::length));
-            System.out.println(x);
+            String record = bufferedReader.readLine();
+            var records = record.trim().split(" ");
+            addressBook.put(records[0], records[1]);
+        }
+
+        String name;
+        while ((name = bufferedReader.readLine()) != null) {
+            System.out.println(name);
+            if (name.isBlank()) break;
+            System.out.println(addressBook.get(name) == null ? "Not found" : name + "=" + addressBook.get(name));
         }
     }
 }
