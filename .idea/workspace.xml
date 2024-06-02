@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="609efdd4-535d-43d8-89ec-79dfc3083b70" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-variables_and_data_types/src/example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/1-variables_and_data_types/src/example1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-variables_and_data_types/example1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-variables_and_data_types/example1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
   "keyToString": {
     "Application.Example2.executor": "Run",
     "Application.Example3.executor": "Run",
-    "Application.example1.executor": "Run",
+    "Application.example1.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
