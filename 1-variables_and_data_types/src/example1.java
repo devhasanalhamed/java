@@ -1,9 +1,11 @@
 
 import java.util.Scanner;
 
-public class example1 {
+public class Example1 {
 
     public static void main(String[] args) {
+//        Java has 8 primitive datatypes
+        
 
         Scanner scanner = new Scanner(System.in);
         int q = scanner.nextInt();
@@ -24,3 +26,4 @@ public class example1 {
         }
     }
 }
+
