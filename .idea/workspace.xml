@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="609efdd4-535d-43d8-89ec-79dfc3083b70" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-variables_and_data_types/src/example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/1-variables_and_data_types/src/example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1-variables_and_data_types/example1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-variables_and_data_types/example1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-variables_and_data_types/src/Example39.java" beforeDir="false" afterPath="$PROJECT_DIR$/1-variables_and_data_types/src/Example39.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-variables_and_data_types/src/example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/1-variables_and_data_types/src/Example1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +25,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2hJRyxVGpjaWIUM2bdb7Tqix7xR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,15 +38,23 @@
   "keyToString": {
     "Application.Example2.executor": "Run",
     "Application.Example3.executor": "Run",
-    "Application.example1.executor": "Debug",
+    "Application.example1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/admin/Desktop/WorkStation/Java/java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.example1">
+  <component name="RunManager" selected="Application.Example1">
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example1" />
+      <module name="1-variables_and_data_types" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example2" />
       <module name="0-java_input_output" />
@@ -60,16 +69,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example1" />
-      <module name="1-variables_and_data_types" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.example1" />
+        <item itemvalue="Application.Example1" />
         <item itemvalue="Application.Example3" />
         <item itemvalue="Application.Example2" />
       </list>
