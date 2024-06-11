@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="609efdd4-535d-43d8-89ec-79dfc3083b70" name="Changes" comment="">
+    <list default="true" id="31d0c49a-1f47-422d-a57b-6ad3e1a7c9e9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-variables_and_data_types/src/example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/1-variables_and_data_types/src/example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-variables_and_data_types/src/example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/1-variables_and_data_types/src/example3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1-variables_and_data_types/example2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1-variables_and_data_types/example2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,84 +15,128 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 6
+  &quot;associatedIndex&quot;: 5
 }</component>
-  <component name="ProjectId" id="2hJRyxVGpjaWIUM2bdb7Tqix7xR" />
+  <component name="ProjectId" id="2fmc4fbBk5rhkzumWq2cV406aqs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Example1.executor": "Run",
-    "Application.Example2.executor": "Run",
-    "Application.Example3.executor": "Run",
-    "Application.example1.executor": "Run",
-    "Application.example2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/admin/Desktop/WorkStation/Java/java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Example20.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example21.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example22.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example23.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example24.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example25.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example26.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example27.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example33.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example34$Person.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example34.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example36.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example37.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dev.executor&quot;: &quot;Run&quot;,
+    &quot;Application.example1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.example2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.example3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.example4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.example5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.example6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.example7.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/there/Desktop/WorkStation/java/hello_world/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.example2">
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example1" />
-      <module name="1-variables_and_data_types" />
+}</component>
+  <component name="RunManager" selected="Application.example1">
+    <configuration name="Example34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example34" />
+      <module name="hello_world" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example2" />
-      <module name="0-java_input_output" />
+    <configuration name="Example36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example36" />
+      <module name="hello_world" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example3" />
-      <module name="0-java_input_output" />
+    <configuration name="Example37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example37" />
+      <module name="hello_world" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example2" />
-      <module name="1-variables_and_data_types" />
+    <configuration name="Example39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example39" />
+      <module name="hello_world" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example1" />
+      <module name="hello_world" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.example2" />
-        <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.Example3" />
-        <item itemvalue="Application.Example2" />
+        <item itemvalue="Application.example1" />
+        <item itemvalue="Application.Example39" />
+        <item itemvalue="Application.Example37" />
+        <item itemvalue="Application.Example36" />
+        <item itemvalue="Application.Example34" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="609efdd4-535d-43d8-89ec-79dfc3083b70" name="Changes" comment="" />
-      <created>1717310451313</created>
+      <changelist id="31d0c49a-1f47-422d-a57b-6ad3e1a7c9e9" name="Changes" comment="" />
+      <created>1714409505727</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1717310451313</updated>
+      <updated>1714409505727</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
