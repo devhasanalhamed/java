@@ -1,60 +1,47 @@
 
-import java.util.InputMismatchException;
-import java.util.Scanner;
 
 public class Example1 {
 
     public static void main(String[] args) {
-//        Java has 8 primitive datatypes
-//        char, boolean,
-//        byte, short, int, long,
-//        float, double.
-//
-//        Integers: are a whole number, positive, negative, or zero
-//        Signed integer: means that one of the bits in the byte
-//        indicate whether the number is positive or negative
-//        (MSB -> 0: positive, 1: negative).
-//
-//        With 8 bits, an unsigned byte (without a sign bit) can represent
-//        values from 0 to 255 (2 raised to the power of 8 minus 1).
+//        Data that you specify while writing the code held inside the memory
+//        There are two types of data:
+//        - Primitive Types: where the variable stores the value
+//        - Reference Types: where the variable stores the reference of the (complex) value
+        /*
 
-//        Because one bit is used for the sign, a signed byte
-//        can represent values from -128 to 127.
-//
-//        Primitives that hold integer:
-//        byte: 8 bit signed integer.
-//        short: 16 bit signed integer.
-//        int: 32 bit signed integer.
-//        long: 64 bit signed integer.
-//        https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+        variable x = 15;
+        variable s = "Hello"
 
-        Scanner scanner = new Scanner(System.in);
+    V     Memory   Address
+        ~~~~~~~~~~
+    x   |   15   |   101
+        ~~~~~~~~~~
+    s   | ~1005~ |   102
+        ~~~~~~~~~~
+        |        |   ...
+        ~~~~~~~~~~
+        | Hello  |   1005
+        ~~~~~~~~~~
 
-        final int T = scanner.nextInt();
+         */
 
-        int counter = 0;
+        // [DataType] [Name] = [Value];
+        // Note: java is case sensitive.
 
-        while(counter <= T){
+        String myName = "Mohammed";
+        String myFriend = "Ahmed";
 
-            try{
-                long number = scanner.nextLong();
-                long testNumber = Math.abs(number);
-                    System.out.printf("%s can be fitted in:%n", number);
-                if(testNumber <= (Math.pow(2,8)) / 2){
-                    System.out.println("* byte");
-                }
-                if(testNumber <= (Math.pow(2,16)) / 2){
-                    System.out.println("* short");
-                }
-                if(testNumber <= (Math.pow(2,32)) / 2){
-                    System.out.println("* int");
-                }
-                System.out.println("* long");
-            }catch (InputMismatchException s) {
-                System.out.print(scanner.next()+" can't be fitted anywhere.");
-            }
+//        Use escape character:
+//        \n: new line
+//        \t: tab
 
-            counter += 1;
-        }
+        System.out.print("My name is: " + myName + "\n");
+        System.out.print("My friend's name is:" + myFriend + "\n");
+
+        System.out.println("--------------------------");
+
+        System.out.println("My name is: " + myName );
+        System.out.println("My friend's name is: " + myFriend);
     }
 }
+
