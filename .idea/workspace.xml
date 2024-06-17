@@ -37,44 +37,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Example20.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example21.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example22.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example23.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example24.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example25.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example26.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example27.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example33.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example34$Person.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example34.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example36.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example37.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.dev.executor&quot;: &quot;Run&quot;,
-    &quot;Application.example1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.example2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.example3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.example4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.example5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.example6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.example7.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/there/Desktop/WorkStation/java/hello_world/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Example1.executor": "Run",
+    "Application.Example20.executor": "Run",
+    "Application.Example21.executor": "Run",
+    "Application.Example22.executor": "Run",
+    "Application.Example23.executor": "Run",
+    "Application.Example24.executor": "Run",
+    "Application.Example25.executor": "Run",
+    "Application.Example26.executor": "Run",
+    "Application.Example27.executor": "Run",
+    "Application.Example33.executor": "Run",
+    "Application.Example34$Person.executor": "Run",
+    "Application.Example34.executor": "Run",
+    "Application.Example36.executor": "Run",
+    "Application.Example37.executor": "Run",
+    "Application.Example8.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.dev.executor": "Run",
+    "Application.example1.executor": "Run",
+    "Application.example2.executor": "Run",
+    "Application.example3.executor": "Run",
+    "Application.example4.executor": "Run",
+    "Application.example5.executor": "Run",
+    "Application.example6.executor": "Run",
+    "Application.example7.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/there/Desktop/WorkStation/Java/java",
+    "onboarding.tips.debug.path": "C:/Users/there/Desktop/WorkStation/java/hello_world/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
-  <component name="RunManager" selected="Application.example1">
-    <configuration name="Example34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example34" />
-      <module name="hello_world" />
+}]]></component>
+  <component name="RunManager" selected="Application.Example1">
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example1" />
+      <module name="0-java_input_output" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -109,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example1" />
         <item itemvalue="Application.example1" />
         <item itemvalue="Application.Example39" />
         <item itemvalue="Application.Example37" />
         <item itemvalue="Application.Example36" />
-        <item itemvalue="Application.Example34" />
       </list>
     </recent_temporary>
   </component>
