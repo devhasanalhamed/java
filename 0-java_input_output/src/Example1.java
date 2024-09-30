@@ -65,6 +65,18 @@ public class Example1 {
                         readIntegerUsingScanner + " and " + readIntegerUsingBufferedReader
         );
 
+        /*
+        If giving a line of combined data for an example "Java 100"
+        to read this separately we could use scanner.next() followed by scanner.int()
+        and magically this could read each value in a separate variables.
+         */
+
+        System.out.println("Enter 'Java 100': ");
+        String s = scanner.next();
+        int n = scanner.nextInt();
+        System.out.println(s + " : " + n);
+        scanner.nextLine();
+
 //      Exercise: create a program that takes a username and age then print it to console
 
         System.out.println("--------------------------------------------------");
