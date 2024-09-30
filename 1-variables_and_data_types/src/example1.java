@@ -1,6 +1,6 @@
 
 
-public class Example1 {
+public class example1 {
 
     public static void main(String[] args) {
 //        Data that you specify while writing the code held inside the memory
@@ -40,7 +40,7 @@ public class Example1 {
 
         System.out.println("--------------------------");
 
-        System.out.println("My name is: " + myName );
+        System.out.println("My name is: " + myName);
         System.out.println("My friend's name is: " + myFriend);
     }
 }
