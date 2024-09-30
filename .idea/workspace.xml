@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31d0c49a-1f47-422d-a57b-6ad3e1a7c9e9" name="Changes" comment="" />
+    <list default="true" id="31d0c49a-1f47-422d-a57b-6ad3e1a7c9e9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-java_input_output/src/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/0-java_input_output/src/Example1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-java_input_output/src/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/0-java_input_output/src/Example2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +42,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Example1.executor": "Run",
+    "Application.Example2.executor": "Run",
     "Application.Example20.executor": "Run",
     "Application.Example21.executor": "Run",
     "Application.Example22.executor": "Run",
@@ -73,7 +78,7 @@
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Example40">
+  <component name="RunManager" selected="Application.Example2">
     <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example1" />
       <module name="0-java_input_output" />
@@ -81,9 +86,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example37" />
-      <module name="hello_world" />
+    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example2" />
+      <module name="0-java_input_output" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -111,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example40" />
+        <item itemvalue="Application.Example2" />
         <item itemvalue="Application.Example1" />
+        <item itemvalue="Application.Example40" />
         <item itemvalue="Application.example1" />
         <item itemvalue="Application.Example39" />
-        <item itemvalue="Application.Example37" />
       </list>
     </recent_temporary>
   </component>
