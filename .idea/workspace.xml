@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="31d0c49a-1f47-422d-a57b-6ad3e1a7c9e9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0-java_input_output/src/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/0-java_input_output/src/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0-java_input_output/src/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/0-java_input_output/src/Example2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,45 +37,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Example1.executor": "Run",
-    "Application.Example2.executor": "Run",
-    "Application.Example20.executor": "Run",
-    "Application.Example21.executor": "Run",
-    "Application.Example22.executor": "Run",
-    "Application.Example23.executor": "Run",
-    "Application.Example24.executor": "Run",
-    "Application.Example25.executor": "Run",
-    "Application.Example26.executor": "Run",
-    "Application.Example27.executor": "Run",
-    "Application.Example33.executor": "Run",
-    "Application.Example34$Person.executor": "Run",
-    "Application.Example34.executor": "Run",
-    "Application.Example36.executor": "Run",
-    "Application.Example37.executor": "Run",
-    "Application.Example40.executor": "Run",
-    "Application.Example8.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.dev.executor": "Run",
-    "Application.example1.executor": "Run",
-    "Application.example2.executor": "Run",
-    "Application.example3.executor": "Run",
-    "Application.example4.executor": "Run",
-    "Application.example5.executor": "Run",
-    "Application.example6.executor": "Run",
-    "Application.example7.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/there/Desktop/Workstation/Java/java",
-    "onboarding.tips.debug.path": "C:/Users/there/Desktop/WorkStation/java/hello_world/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Example1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example20.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example21.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example22.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example23.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example24.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example25.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example26.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example27.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example33.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example34$Person.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example34.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example36.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example37.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example40.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dev.executor&quot;: &quot;Run&quot;,
+    &quot;Application.example1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.example2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.example3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.example4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.example5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.example6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.example7.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/there/Desktop/Workstation/Java/java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/there/Desktop/WorkStation/java/hello_world/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Example2">
     <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example1" />
