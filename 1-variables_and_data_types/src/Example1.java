@@ -1,16 +1,16 @@
 
 
-public class example1 {
+public class Example1 {
 
     public static void main(String[] args) {
 //        Data that you specify while writing the code held inside the memory
 //        There are two types of data:
 //        - Primitive Types: where the variable stores the value
-//        - Reference Types: where the variable stores the reference of the (complex) value
+//        - Reference(Non-Primitive) Types: where the variable stores the reference of the (complex) value
         /*
 
-        variable x = 15;
-        variable s = "Hello"
+        int variable x = 15;
+        String variable s = "Hello"
 
     V     Memory   Address
         ~~~~~~~~~~
@@ -25,7 +25,8 @@ public class example1 {
 
          */
 
-        // [DataType] [Name] = [Value];
+
+        // Declaration and initialization -> [DataType] [Name] = [Value];
         // Note: java is case sensitive.
 
         String myName = "Mohammed";
